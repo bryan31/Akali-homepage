@@ -13,7 +13,8 @@ export default defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
     logo: "/logo.svg",
     lastUpdated: "Last Updated",
     nav: [
-      { text: "文档", link: "/guide/" }
+      { text: "文档", link: "/guide/" },
+      { text: "仓库", link: "https://gitee.com/dromara/Akali" }
     ],
     sidebarNav: [
     ],

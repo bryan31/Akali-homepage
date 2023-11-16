@@ -1,6 +1,6 @@
 <template>
   <div class="status">
-    <span>如果喜欢Akali，请在<a href="https://gitee.com/bryan31/Akali">Gitee仓库</a>上点个Star，谢谢！</span>
+    <span>如果喜欢Akali，请在<a href="https://gitee.com/dromara/Akali">Gitee仓库</a>上点个Star，谢谢！</span>
     <Close @click.native="$closeCurrentStatus" />
   </div>
 </template>
