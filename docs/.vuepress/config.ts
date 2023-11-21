@@ -23,7 +23,7 @@ export default defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
         {
           title: "使用向导",
           collapsable: false,
-          children: ["/guide/", "/guide/hotspot", "/guide/fallback", "/guide/env"]
+          children: ["/guide/", "/guide/hotspot", "/guide/fallback", "/guide/env", "/guide/chat"]
         }
       ]
     },
