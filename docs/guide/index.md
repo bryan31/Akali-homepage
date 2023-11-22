@@ -15,3 +15,7 @@ Akali框架的理念就是小巧，实用，来无影去无踪，丝血团战，
 ```
 
 中央仓库可依赖到。
+
+## 作者
+
+Akali作者是铂赛东，著有[LiteFlow](https://liteflow.cc/)和[TLog](https://tlog.yomahub.com/)两个GVP框架。
