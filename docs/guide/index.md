@@ -8,9 +8,9 @@ Akali框架的理念就是小巧，实用，来无影去无踪，丝血团战，
 
 ```xml
 <dependency>
-  <groupId>com.yomahub</groupId>
+  <groupId>org.dromara</groupId>
   <artifactId>akali</artifactId>
-  <version>1.0.3</version>
+  <version>1.1.0</version>
 </dependency>
 ```
 
