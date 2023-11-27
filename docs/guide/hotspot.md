@@ -33,7 +33,6 @@ public SkuInfo getSkuInfo(String skuCode){
 ```
 
 
-
 这就代表了，如果某个skuCode在5秒之内有超过50个线程正在运行，那么就提为热点，并用热点数据直接返回。
 
 ## 热点缓存的更新
