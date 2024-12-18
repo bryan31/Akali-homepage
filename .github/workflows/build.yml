@@ -31,11 +31,8 @@ jobs:
 
       # 5. 构建结果 推送到 dist 分支
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4
         if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          publish_branch: dist
-          publish_dir: ./docs/.vuepress/dist
+          branch: dist
+          folder: ./docs/.vuepress/dist
