@@ -25,5 +25,5 @@ features:
 
 ::: slot footer
 Released under the Apache 2.0 License.<br>
-Copyright © 2023 铂赛东
+Copyright © 2024 铂赛东
 :::
